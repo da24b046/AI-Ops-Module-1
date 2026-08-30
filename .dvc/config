@@ -1,0 +1,4 @@
+[core]
+    remote = mymac
+['remote "mymac"']
+    url = ssh://sidharthadurgam@10.253.165.243/Users/sidharthadurgam/dvc-storage

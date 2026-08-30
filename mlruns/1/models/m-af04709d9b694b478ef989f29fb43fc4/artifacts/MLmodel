@@ -1,0 +1,24 @@
+artifact_path: /home/navadeep04/AI_Ops_Assigments/AI-Ops-Module-1/mlruns/1/models/m-af04709d9b694b478ef989f29fb43fc4/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.14.4
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.9.0
+    skops_trusted_types:
+    - sklearn.neural_network._stochastic_optimizers.AdamOptimizer
+mlflow_version: 3.15.1
+model_id: m-af04709d9b694b478ef989f29fb43fc4
+model_size_bytes: 6559072
+model_uuid: m-af04709d9b694b478ef989f29fb43fc4
+prompts: null
+run_id: ef409a62742e43d499e2bb8657b8c84e
+utc_time_created: '2026-08-30 06:46:07.511284'
