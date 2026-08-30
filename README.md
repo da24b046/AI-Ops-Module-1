@@ -7,3 +7,8 @@ This repository contains tasks which are given up to question-3
 - written answers are present in 'AI_Ops_module_1.pdf'
 
 - notebook for question-2 is in 'question2.ipynb'
+
+
+## For running question2.ipynb
+
+I provided the mlflow server link in the notebook itself run it one terminal and then run the notebook
